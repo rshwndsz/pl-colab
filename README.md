@@ -1,6 +1,6 @@
 # PyTorch Lightning Template
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rshwndsz/templates/blob/master/pl-colab/template.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/rshwndsz/pl-colab/blob/main/template.ipynb)
 
 * [Neptune](https://neptune.ai) for logging metrics, plots and figures
 * [Optuna](https://optuna.readthedocs.io/) for hyperparameter sweeps
